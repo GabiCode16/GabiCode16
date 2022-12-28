@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/gabicode16">
-  <img height="168em" src="https://github-readme-stats.vercel.app/api?username=gabicode16&show_icons=true&theme=radical&include_all_commits=true&count_private=true&title_color=00fa9a&text_color=F90000"/>
-  <img height="168em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabicode16&layout=compact&langs_count=7&theme=radical&title_color=00fa9a&text_color=F90000"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=gabicode16&show_icons=true&theme=radical&include_all_commits=true&count_private=true&title_color=00fa9a&text_color=F90000"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabicode16&layout=compact&langs_count=7&theme=radical&title_color=00fa9a&text_color=F90000"/>
 </div>
 
 <div style="display: inline_block"><br>
