@@ -44,3 +44,15 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+$ curl \
+  -H "Authorization: token xxxx" \
+  -X POST \
+  -H "Accept: application/vnd.github.v3+json" \
+  https://api.github.com/repos/abc/xyz/actions/workflows/runner.yml/dispatches \
+  -d '{"ref":"feature-ci-runner"}'
+
+{
+  "message": "Workflow does not have 'workflow_dispatch' trigger",
+  "documentation_url": "https://docs.github.com/rest/reference/actions#create-a-workflow-dispatch-event"
+}
